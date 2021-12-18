@@ -121,9 +121,9 @@ Please, contribute!
 
 * [Visual SVN Server](https://www.visualsvn.com/server/)
 
-### Merging and sharing
-* [Copybara](https://.github.com/google/copybara] Tool for transforming and moving code between repositories.
-
+# Merging and sharing
+* [Copybara](https://github.com/google/copybara] Tool for transforming and moving code between repositories.
+* [meta](https://github.com/mateodelnorte/meta] Tool for turning many repos into a meta repo.
 
 # Contributing
 
