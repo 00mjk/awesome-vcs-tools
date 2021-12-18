@@ -117,12 +117,15 @@ Please, contribute!
 * [GitLab](https://about.gitlab.com/)
   * [How to Setup GitLab: A Self Hosted GitHub](https://scotch.io/tutorials/how-to-setup-gitlab-a-self-hosted-github)
 * [Gogs.io](https://gogs.io/) - cross-platform  self-hosted Git service
-### Merging and sharing
-* [Copybara](https://.github.com/google/copybara] Tool for transforming and moving code between repositories.
 ### SVN
 
 * [Visual SVN Server](https://www.visualsvn.com/server/)
 
+### Merging and sharing
+* [Copybara](https://.github.com/google/copybara] Tool for transforming and moving code between repositories.
+
+
 # Contributing
 
 Just fork and send a pull request with your awesome Version control tools - clients, diffs etc.
+
