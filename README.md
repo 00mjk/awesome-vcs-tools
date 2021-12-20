@@ -125,6 +125,8 @@ Please, contribute!
 * [Copybara](https://github.com/google/copybara) Tool for transforming and moving code between repositories.
 * [meta](https://github.com/mateodelnorte/meta)  Tool for turning many repos into a meta repo.
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
+* [git-merge-repos](https://github.com/robinst/git-merge-repos)  Program for merging multiple Git repositories into one.
+
 # Contributing
 
 Just fork and send a pull request with your awesome Version control tools - clients, diffs etc.
