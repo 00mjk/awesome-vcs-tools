@@ -124,6 +124,7 @@ Please, contribute!
 # Merging and sharing
 * [Copybara](https://github.com/google/copybara) Tool for transforming and moving code between repositories.
 * [meta](https://github.com/mateodelnorte/meta)  Tool for turning many repos into a meta repo.
+* [fbshipit](https://github.com/facebook/fbshipit)  Tool to copy commits between repositories.
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
 * [git-merge-repos](https://github.com/robinst/git-merge-repos)  Program for merging multiple Git repositories into one.
 
