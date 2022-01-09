@@ -126,6 +126,7 @@ Please, contribute!
 * [meta](https://github.com/mateodelnorte/meta)  Tool for turning many repos into a meta repo.
 * [fbshipit](https://github.com/facebook/fbshipit)  Tool to copy commits between repositories.
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
+* [github-sync](https://github.com/repo-sync/github-sync)  Github Actionfor syncing current repository with remote.
 * [git-merge-repos](https://github.com/robinst/git-merge-repos)  Program for merging multiple Git repositories into one.
 * [peru](https://github.com/buildinspace/peru)  Tool for including other people's code in your project.
 
