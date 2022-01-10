@@ -124,7 +124,7 @@ Please, contribute!
 # Merging and sharing
 * [Copybara](https://github.com/google/copybara) Tool for transforming and moving code between repositories.
 * [meta](https://github.com/mateodelnorte/meta)  Tool for turning many repos into a meta repo.
-* [mfetch_upstream](https://github.com/andylamp/fetch_upstreams)  Fetches upstream and merges from multiple repositories.
+* [mfetch_upstream](https://github.com/andylamp/mfetch_upstreams)  Fetches upstream and merges from multiple repositories.
 * [fbshipit](https://github.com/facebook/fbshipit)  Tool to copy commits between repositories.
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
 * [github-sync](https://github.com/repo-sync/github-sync)  Github Actionfor syncing current repository with remote.
