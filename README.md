@@ -131,6 +131,7 @@ Please, contribute!
 * [github-sync](https://github.com/repo-sync/github-sync)  Github Actionfor syncing current repository with remote.
 * [git-merge-repos](https://github.com/robinst/git-merge-repos)  Program for merging multiple Git repositories into one.
 * [peru](https://github.com/buildinspace/peru)  Tool for including other people's code in your project.
+* [repository-mirroring-action](https://github.com/pixta-dev/repository-mirroring-action)  Github Action for mirroring a repository to another repository.
 
 # Contributing
 
