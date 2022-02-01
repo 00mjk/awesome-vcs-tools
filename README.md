@@ -30,6 +30,7 @@ Please, contribute!
 
 * [Turbo Git](https://github.com/labs-js/turbo-git) - commit convention support.
 * [Magit](https://github.com/magit/magit) - A Git Porcelain inside Emacs.
+* [gitforge](https://github.com/nhorman/gitforge)  Utility for manipulating git forges.
 
 ### GitHub extensions
 
