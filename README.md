@@ -31,6 +31,7 @@ Please, contribute!
 * [Turbo Git](https://github.com/labs-js/turbo-git) - commit convention support.
 * [Magit](https://github.com/magit/magit) - A Git Porcelain inside Emacs.
 * [gitforge](https://github.com/nhorman/gitforge)  Utility for manipulating git forges.
+* [forge-cli](https://github.com/remilueoend/forge-cli)  cLI for editing and creating issues and merge requests on Gitlab, github and others.
 
 ### GitHub extensions
 
