@@ -128,7 +128,7 @@ Please, contribute!
 * [meta](https://github.com/mateodelnorte/meta)  Tool for turning many repos into a meta repo.
 * [mfetch_upstream](https://github.com/andylamp/mfetch_upstreams)  Fetches upstream and merges from multiple repositories.
 * [fbshipit](https://github.com/facebook/fbshipit)  Tool to copy commits between repositories.
-* [git-bzr-ng](https://github.com/termie/git-bzr-ng)  Bi-directional git to bar bridge.
+* [git-bzr-ng](https://github.com/termie/git-bzr-ng)  Bi-directional git to bzr bridge.
 * [git-tf](https://github.com/nodirt/git-tf) Simple two-way Git-TFS bridge.
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
 * [github-repository-sync-action](https://github.com/net-engine/github-repository-sync-action)  Github action to push changes to branch in github repository to any remote repository.
