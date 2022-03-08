@@ -133,6 +133,7 @@ Please, contribute!
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
 * [github-repository-sync-action](https://github.com/net-engine/github-repository-sync-action)  Github action to push changes to branch in github repository to any remote repository.
 * [github-sync](https://github.com/repo-sync/github-sync)  Github Actionfor syncing current repository with remote.
+* [gitman](https://github.com/seanpm2001/gitman)  Tool for Git to help manage, fetch upstream, and modify projects through various Git websites.
 * [git-merge-repos](https://github.com/robinst/git-merge-repos)  Program for merging multiple Git repositories into one.
 * [peru](https://github.com/buildinspace/peru)  Tool for including other people's code in your project.
 * [repository-mirroring-action](https://github.com/pixta-dev/repository-mirroring-action)  Github Action for mirroring a repository to another repository.
