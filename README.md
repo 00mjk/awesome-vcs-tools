@@ -131,6 +131,7 @@ Please, contribute!
 * [git-bzr-ng](https://github.com/termie/git-bzr-ng)  Bi-directional git to bzr bridge.
 * [git-tf](https://github.com/nodirt/git-tf) Simple two-way Git-TFS bridge.
 * [gitbitlabhub](https://github.com/karser/gitbitlabhub)  Tool to mirror repositories between Bitbucket, Gitlab, and Github.
+* [github-action-build-chain](https://github.com/kiegroup/github-action-build-chain)  Tool for github actions to build multiple projects from different repositories.
 * [github-repository-sync-action](https://github.com/net-engine/github-repository-sync-action)  Github action to push changes to branch in github repository to any remote repository.
 * [github-sync](https://github.com/repo-sync/github-sync)  Github Actionfor syncing current repository with remote.
 * [gitman](https://github.com/seanpm2001/gitman)  Tool for Git to help manage, fetch upstream, and modify projects through various Git websites.
