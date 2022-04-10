@@ -138,6 +138,7 @@ Please, contribute!
 * [git-merge-repos](https://github.com/robinst/git-merge-repos)  Program for merging multiple Git repositories into one.
 * [peru](https://github.com/buildinspace/peru)  Tool for including other people's code in your project.
 * [repository-mirroring-action](https://github.com/pixta-dev/repository-mirroring-action)  Github Action for mirroring a repository to another repository.
+* [sparkleshare](https://github.com/hbons/SparkleShare)  Tool for sharing and collaborating through synchronized Git repos.
 * [svnAndGit](https://github.com/innerhippy/svnAndGit)  Script to allow two-way workflow between git and subversion.
 
 # Contributing
